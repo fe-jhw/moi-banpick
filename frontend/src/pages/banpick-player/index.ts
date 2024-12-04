@@ -1,0 +1,1 @@
+export { BanpickPlayerPage } from './ui/BanpickPlayerPage'
